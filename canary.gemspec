@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name = "dependabot-probe-canary"
-  spec.version = "0.1.0"
+  spec.version = "0.1.1"
   spec.summary = "Owned Dependabot update-job boundary canary"
   spec.authors = ["Pedro Ferreira"]
   spec.files = ["lib/dependabot_probe_canary.rb"]
